@@ -1,12 +1,8 @@
 body{
-    background-color: #343a40;
+    background-color: #212529;
     color: #DCDCDC;
     font-family: Hack Regular;
     margin: 0;
-}
-
-.lineColour{
-    background-color: #212529;
 }
 
 p{
@@ -22,12 +18,13 @@ p{
 
 .lineNumber{
     color: #6c757d;
+    width: 3%;
 }
 
 .information{
     color: #c97856;
     padding-left: 1%;
-    width: 85%;
+    width: 80%;
 }
 
 .integer{
