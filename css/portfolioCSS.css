@@ -11,13 +11,13 @@ p{
 
 .comment{
     color: #2dd457;
+    white-space: pre;
 }
 
 .codeContainer{
     display: flex;  
     margin: auto;
     width: 65%;
-    margin-top: 0;
 }
 
 .lineNumber{
@@ -34,6 +34,18 @@ p{
 .integer{
     color: #8ab494;
     padding-left: 1%;
+}
+
+.skillsContainer{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    margin-top: 2%;
+    width: 65%;
+}
+
+.skills{
+    width: 50%;
 }
 
 
