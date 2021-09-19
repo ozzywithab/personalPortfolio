@@ -9,6 +9,10 @@ p{
     margin-top: 0;
 }
 
+.comment{
+    color: #2dd457;
+}
+
 .codeContainer{
     display: flex;  
     margin: auto;
